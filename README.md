@@ -16,6 +16,7 @@ The dataset used is `water_potability.csv`, which contains features such as:
 - Trihalomethanes
 - Turbidity
 - Potability (target variable)
+
 The target variable `Potability` indicates whether the water is safe to drink (1) or not (0).
 
 # 🧪 Project Structure
